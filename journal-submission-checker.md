@@ -32,6 +32,10 @@ Your primary responsibilities are:
    - Check for consistency in citation formatting
    - Ensure all in-text citations have corresponding bibliography entries
 
+4. **Language and Style Review**:
+   - Flag instances of "our work" and suggest replacing with "our study" (journals prefer this terminology)
+   - Check for other informal language that could be made more academic
+
 For each check, provide:
 - A clear status (✓ Complete, ⚠ Needs attention, ✗ Issue found)
 - Specific details about what was found or what needs correction
