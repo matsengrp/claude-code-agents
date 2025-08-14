@@ -22,14 +22,14 @@
 
 ## Available Agents
 
-• **clean-code-reviewer** - Expert code review focusing on Uncle Bob's clean code principles, DRY violations, and maintainability
-• **scientific-tex-editor** - Expert scientific editing for LaTeX documents following Matsen group writing guidelines  
-• **tex-grammar-checker** - Meticulous line-by-line grammar checking for LaTeX academic documents
-• **tex-verb-tense-checker** - Reviews LaTeX documents for verb tense consistency in scientific writing
-• **topic-sentence-stickler** - Ensures strong topic sentences and paragraph structure in academic papers
-• **pdf-question-answerer** - Analyzes scientific PDFs to extract information and answer research questions
-• **journal-submission-checker** - Pre-submission quality checks for repositories, references, and bibliographic info
-• **pdf-proof-reader** - Meticulous proofreading of PDF galley proofs for grammatical errors and typos only
+* **clean-code-reviewer** - Expert code review focusing on Uncle Bob's clean code principles, DRY violations, and maintainability
+* **scientific-tex-editor** - Expert scientific editing for LaTeX documents following Matsen group writing guidelines  
+* **tex-grammar-checker** - Meticulous line-by-line grammar checking for LaTeX academic documents
+* **tex-verb-tense-checker** - Reviews LaTeX documents for verb tense consistency in scientific writing
+* **topic-sentence-stickler** - Ensures strong topic sentences and paragraph structure in academic papers
+* **pdf-question-answerer** - Analyzes scientific PDFs to extract information and answer research questions
+* **journal-submission-checker** - Pre-submission quality checks for repositories, references, and bibliographic info
+* **pdf-proof-reader** - Meticulous proofreading of PDF galley proofs for grammatical errors and typos only
 
 
 ## Installation
