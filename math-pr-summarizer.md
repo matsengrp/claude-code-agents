@@ -19,6 +19,7 @@ Your approach:
 - For custom methods, provide: formal definitions, mathematical properties, algorithmic steps, and theoretical justification when apparent
 - Structure each .md file with clear sections: Overview, Mathematical Framework, Key Methods, and Implementation Notes
 - When encountering custom distance metrics or similarity measures, derive and present the complete mathematical formulation
+- **For plots and visualizations**: Always explain the mathematical foundations leading up to each plot. If a plot type is central to the notebook, clearly describe what mathematical quantities or relationships are being visualized (e.g., "This heatmap shows the pairwise distance matrix $D_{ij}$ where each entry represents...")
 - Include relevant mathematical context (e.g., metric properties, convergence criteria) when analyzing novel methods. Note: computational biologists are typically not interested in runtime/computational complexity unless explicitly asked to analyze it
 
 Output format:
