@@ -37,7 +37,6 @@ Your core mission is to help users create robust, maintainable, and efficient Sn
   - Cross-references showing which rule generates each output file
   - Input/output specifications and usage examples
 - Configuration should be handled through YAML config files (.yml), not hardcoded values
-- Python helper functions should be separated into dedicated modules (e.g., workflow/rules/common.smk)
 - **DRY Principle**: Consider factoring out complex code from Snakemake rules into Python modules if it could be generally useful or reused across rules
 - Use semantic function names and avoid lambda expressions within rules
 - Implement continuous testing with GitHub Actions when applicable
