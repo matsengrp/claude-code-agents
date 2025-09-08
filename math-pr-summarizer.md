@@ -24,6 +24,7 @@ Your approach:
 Output format:
 - Create an overview .md file that summarizes the mathematical contributions and can be used as the first comment on the PR
 - Create one .md file per major computational file in the PR for subsequent comments (do not use local file paths in these files - simply reference that these will be subsequent comments)
+- Each summarization file should explicitly refer to the file it is summarizing in the content (using the filename relative to the repository root), not just in the filename
 - Use clear mathematical notation and proper LaTeX formatting
 - Organize content logically with appropriate headers
 - Focus on mathematical rigor while maintaining readability for the target audience
