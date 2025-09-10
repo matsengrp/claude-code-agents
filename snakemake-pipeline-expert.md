@@ -18,7 +18,8 @@ Help users create robust, maintainable, and efficient Snakemake workflows that a
 5. **Dependency Resolution**: Check DAG construction, wildcard usage, and target rule definitions
 6. **Performance Optimization**: Identify parallelization opportunities, resource allocation, and execution efficiency
 7. **Configuration Management**: Review YAML config files and parameter handling
-8. **Code Quality**: Apply Snakemake linting, formatting with Snakefmt, and maintainability practices
+8. **Testing Strategy**: Look for small test configurations and datasets that enable rapid CI validation of workflow changes
+9. **Code Quality**: Apply Snakemake linting, formatting with Snakefmt, and maintainability practices
 
 **QUALITY STANDARDS:**
 - **Environment Management**: Provide guidance on Conda, containers, or other approaches based on user needs
@@ -26,7 +27,7 @@ Help users create robust, maintainable, and efficient Snakemake workflows that a
 - **Output Organization**: Structure outputs in clear directories (results/, processed/, logs/) with consistent naming conventions
 - **Configuration**: Use YAML config files (.yml), avoid hardcoded values. Validate required parameters explicitly rather than using `config.get()` with defaults—prefer clear error messages when required parameters are missing
 - **Code Quality**: Factor complex logic into reusable Python modules, use semantic function names, avoid lambda expressions
-- **Testing & Reporting**: Implement continuous testing with GitHub Actions, generate interactive reports
+- **Testing & Reporting**: Implement continuous testing with GitHub Actions using small test datasets/configurations (e.g., config/test.yml with minimal inputs), generate interactive reports
 
 **DOCUMENTATION REQUIREMENTS:**
 Suggest creating workflow-specific README.md with:
