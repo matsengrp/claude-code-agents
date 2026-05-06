@@ -1,5 +1,7 @@
 # matsengrp subagents for Claude Code
 
+> **⚠️ This repository is archived.** Development has moved to [matsen/bipartite](https://github.com/matsen/bipartite), where these agents (and more) now live under `agents/`. Please use that repository instead.
+
 [Subagents](https://docs.anthropic.com/en/docs/claude-code/sub-agents) are a useful feature of Claude Code that save you tokens in your primary context window while providing instructions for a specialized task.
 
 [This video](https://www.youtube.com/watch?v=Pif98jOScYc) provides a nice introduction.
